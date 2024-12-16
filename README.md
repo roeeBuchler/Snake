@@ -89,7 +89,7 @@ Snake/
 ---
 
 ## Showcase
-Include screenshots or GIFs of the gameplay here.
+![image](https://github.com/user-attachments/assets/19a2e640-fc3a-4dd9-990c-98a164638059)
 
 ---
 
